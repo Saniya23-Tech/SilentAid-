@@ -1,5 +1,5 @@
 # SilentAid 🚨  
-AI-powered emergency detection system for hospitals – built for the Intel AI Hackathon.
+
 ## 💡 Problem Statement  
 Imagine a hospital where a patient suddenly starts shivering or showing signs of stress...  
 But no one is around.  
@@ -33,4 +33,4 @@ When it detects signs of stress, pain, shivering, or heart-touch gestures, it au
    python main.py
  **Add your own siren sound file** named `siren.mp3` in the root directory.  
    ⚠️ *Note: Due to file restrictions, `siren.mp3` is not uploaded to this repository. You can download any siren sound of your choice and rename it to `siren.mp3`.*
-Demo video of Silent Aid:https://youtube.com/shorts/iH4Pwnjrsts?si=ihQI7bhyVYqZujtH
+
